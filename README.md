@@ -3,4 +3,4 @@ The biggest challenge of Factoring is to predict if and when invoices will be pa
 A prediction is also made if after given inputs the customer will be making a late payment or not.
 This data was provided by IBM for testing out their analytics tools.
 1st Prediction - When can we expect the payment :: Gradient Boost - 94%
-2nd Prediction - If the customer will be late for payment ::  Gradient Boost - 86% , Logistic Regression :- precision: 84 , recall: 85 , f1-score: 85, acuracy - 85%
+2nd Prediction - If the customer will be late for payment ::  Gradient Boost - 86% , Logistic Regression :- precision: 84 , recall: 85 , f1-score: 85, accuracy - 85%
